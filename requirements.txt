@@ -1,1 +1,9 @@
-
+pandas==2.2.3
+numpy==2.2.0
+scikit-learn
+streamlit==1.41.0
+transformers
+torch
+torchvision
+torchaudio
+scipy
